@@ -18,7 +18,7 @@ public class array_single {
 
         // 3) Initialisation and printing using for loop 
         // We must initialize arr1 with a size before using it
-        arr1 = new int[11]; 
+        arr1 = new int[11]; // do this way
 
         for (int i = 0; i <arr1.length; i++) {
             arr1[i] = i;
